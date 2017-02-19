@@ -11,13 +11,13 @@ Displays a numbered list of news headlines of the day
 
 # Options
 -h
-Displays the help menu
+			Displays the help menu
 
 -d
-Displays the archived news headlines until that day starting from the week
+			Displays the archived news headlines until that day starting from the week
 
 -c [ARGUMENT]
-Displays the news specific to the argument
+			Displays the news specific to the argument
 
 			Arguments:
 
